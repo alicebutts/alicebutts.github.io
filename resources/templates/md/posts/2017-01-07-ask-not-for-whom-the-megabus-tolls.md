@@ -19,7 +19,7 @@ Every three weeks I choose a new seat. Some day I will find the seat that I won'
 ##### The Only Constant Is Change: All Good Things Must End
 When I struggle to fit my backpack at my feet, I close my eyes and picture the month when I was allowed to rest the backpack on the lower-level's empty space behind the front door. Then I would sit with room at the four seats around the table.
 
-The month ended when a megabus woman snapped her fingers at me, and yelled until I was smushed with my bag and everyone else's at the table. It was Halloween and necessary for two teenagers to braid hair. One rested her face on the table in front of me. The other braided, dropping any loose strands at my feet on my bag. I saw the exression I wanted to make on the man in the patagonia sweater sitting across the table.
+The month ended when a megabus woman snapped her fingers at me, and yelled until I was smushed with my bag and everyone else's at the table. It was Halloween and necessary for two teenagers to braid hair. One rested her face on the table in front of me. The other braided, dropping any loose strands at my feet on my bag. I saw the expression I wanted to make on the man in the patagonia sweater sitting across the table.
 
 ##### Algorithms
 When I choose my seat, I use machine learning to assess where people will not sit next to me. Once a season the bus will not be full and if my algorithms succeed I will have the seat to myself. Until then, I make sure to make eye-contact with every prospective seat partner. You can always tell a talker by their eyes. What you cannot identify:
@@ -36,7 +36,7 @@ The ride begins with The Announcement. Terse drivers on their night shift say, "
 
 We clatter through the strip malls, and the driver makes a new, special annoucement: we will be picking up passengers from a megabus that broke down. We all turn around in our seat to see everyone else's face. The bus is full.
 
-Then the strip malls are farther and farther apart and we are in the darkness of the Jersey expanse. Everyone has their phone chargers plugged in above them. They sway like umbilical cords. After the darkness come the false cities. Towers of red and yellow lights trick me into believing I am seeing a skyline. Then the smell of sulfer leaking into the bus trains me to see the smoke. It billows up and wraps mysterious gray cylinders and domes; we are thirty minutes away.
+Then the strip malls are farther and farther apart and we are in the darkness of the Jersey expanse. Everyone has their phone chargers plugged in above them. They sway like umbilical cords. After the darkness come the false cities. Towers of red and yellow lights trick me into believing I am seeing a skyline. Then the smell of sulfur leaking into the bus trains me to see the smoke. It billows up and wraps mysterious gray cylinders and domes; we are thirty minutes away.
 
 Just beyond the towers and smoke the bus slows and stops. Our fallen sister megabus sits on the side of the road. All her passengers are lined up against the highway's railing. Their sillouhettes are dark and for a moment the headlights of the bus illuminate their hopeless faces.
 

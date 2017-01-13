@@ -3,6 +3,4 @@
  :page-index 0
  :navbar? true}
 
-## Alice Butts is here to entertain
-
-wow wow wow
+Alice Butts is here to entertain. You can reach her at `storiesbyalicebutts@gmail.com`
