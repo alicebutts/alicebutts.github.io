@@ -5,7 +5,7 @@
 http://alicebutts.github.io/404.html
 </loc>
 <lastmod>
-2017-01-12
+2017-01-16
 </lastmod>
 </url>
 <url>
@@ -13,7 +13,7 @@ http://alicebutts.github.io/404.html
 http://alicebutts.github.io/archives/index.html
 </loc>
 <lastmod>
-2017-01-12
+2017-01-16
 </lastmod>
 </url>
 <url>
@@ -21,7 +21,7 @@ http://alicebutts.github.io/archives/index.html
 http://alicebutts.github.io/authors-output/Alice Butts/index.html
 </loc>
 <lastmod>
-2017-01-12
+2017-01-16
 </lastmod>
 </url>
 <url>
@@ -29,7 +29,7 @@ http://alicebutts.github.io/authors-output/Alice Butts/index.html
 http://alicebutts.github.io/index.html
 </loc>
 <lastmod>
-2017-01-12
+2017-01-16
 </lastmod>
 </url>
 <url>
@@ -37,7 +37,7 @@ http://alicebutts.github.io/index.html
 http://alicebutts.github.io/pages-output/about/index.html
 </loc>
 <lastmod>
-2017-01-12
+2017-01-16
 </lastmod>
 </url>
 <url>
@@ -45,7 +45,15 @@ http://alicebutts.github.io/pages-output/about/index.html
 http://alicebutts.github.io/posts-output/2017-01-07-ask-not-for-whom-the-megabus-tolls/index.html
 </loc>
 <lastmod>
-2017-01-12
+2017-01-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://alicebutts.github.io/posts-output/2017-01-14-whos-that-knocking-at-my-door/index.html
+</loc>
+<lastmod>
+2017-01-16
 </lastmod>
 </url>
 <url>
@@ -53,7 +61,7 @@ http://alicebutts.github.io/posts-output/2017-01-07-ask-not-for-whom-the-megabus
 http://alicebutts.github.io/tags/index.html
 </loc>
 <lastmod>
-2017-01-12
+2017-01-16
 </lastmod>
 </url>
 <url>
@@ -61,7 +69,7 @@ http://alicebutts.github.io/tags/index.html
 http://alicebutts.github.io/tags-output/long distance/index.html
 </loc>
 <lastmod>
-2017-01-12
+2017-01-16
 </lastmod>
 </url>
 <url>
@@ -69,7 +77,15 @@ http://alicebutts.github.io/tags-output/long distance/index.html
 http://alicebutts.github.io/tags-output/megabus/index.html
 </loc>
 <lastmod>
-2017-01-12
+2017-01-16
+</lastmod>
+</url>
+<url>
+<loc>
+http://alicebutts.github.io/tags-output/my animals your life/index.html
+</loc>
+<lastmod>
+2017-01-16
 </lastmod>
 </url>
 </urlset>
